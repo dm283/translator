@@ -1,53 +1,0 @@
-=== ОТЧЕТ БОТА ===
-
-обработано страниц всего:            25 (по 20 элемента на страницу максимально)
-распознано элементов:                  498 
-распознано страниц полностью: 23 
-распознано страниц частично:    2 
-нераспознано страниц:                 0 
-
-внимание (!) - нумерация страниц в следующих списках начинается с нуля (0)
-
-нераспознанные/частично распознанные страницы и кол-во успешно распознанных элементов:
-[ page-0 ]: 19
-[ page-8 ]: 19
-
-распознанные элементы на частично распознанных страницах:
-[ page-0 ]:    0) 0105425035663320215u)PtnoVWR>VM91EE1092eUL524FzVo4Z/Stytn7cTvcGFfEC6xDqV3sqgmvCF3A=
-                     1) 0105425035663320215VoCUBlAlX!yc91EE109274O/wNmnBhi91lrmXrLeyQAUsY0l4m05bmBdcXGEISI=
-                     2) 0105425035663320215OVc7CC-Ah=AQ91EE1092zxEkiI/h/1S1V4x9I9KDUVEkx/pa/ckGMIp7038tmm4=
-                     3) 01054250356633202150wsXQyWia9rF91EE1092ojNshDlxSucLuIQA7NBsX5eWlgkSovhUyaTYb7t/qx8=
-                     4) 01054250356633202151DJQONnmmW&M91EE10920Dqeq4YJb1Dy2Am63EjIqewB0Kl/t3Pk8HrTMa3jF8Y=
-                     5) 0105425035663320215dmD*E'LpM7)s91EE1092mk3+8RZ32AeQ5+koyIJBlP6Ri0NK1h95vxKy2jP3g5c=
-                     6) 0105425035663320215PlU?Ld*1ePRj91EE1092bqCKAeSlQJY3MoxQwvBDpBbZogoCo1HtHe0fj7fNyqM=
-                     7) 0105425035663320215hwIQXHTbPYw791EE1092MR7UH26Cd2p1ma2lDhnTkKDJT+6W7IrQ+7zwE5z+OXQ=
-                     8) 0105425035663320215JDv9anGXO:Cf91EE1092viQ3d5nRXSDG+OTmHwc1sNZDm6sD7J1p5/hAhrvReY8=
-                     9) 0105425035663320215YTTXEqkY<>u591EE1092YkTpDYoOG9cfrc7R3GI4XnrtkOO0NBHMkNzN0RhiN8c=
-                     10) 0105425035663320215KaE&bNKstc=f91EE10920q1o63FwRsdTikXhp712P6nBENIbZjIm6vQoUXbqqD0=
-                     11) 0105425035663320215Io/w(j)lo="o91EE1092LayMgDYbG3FOEqZ7Yr8OBpJyDvNdOaaavznHJr0yuQk=
-                     12) 0105425035663320215"nVaQO,%KAY?91EE1092yPnjR3nxWYo1BgcTHwRCr6GXH9zyu29tBvEELS0unJU=
-                     13) 0105425035663320215RlcmnqcxlRYc91EE1092dhQ2weZah9tYaO3CXdIDpJ79M+GjjvUlHljzEFDiXOo=
-                     14) 0105425035663320215gcpkTUUHB:/g91EE10923Lh0MpbDPWGlaxvx+Tfbgu0qD87zQ7wzUvm/BRbW5bg=
-                     15) 0105425035663320215UiooQ&(?t%(H91EE1092qDMtxzozkW9SV2aqYfc8Wz0GG2bEpH3DWV/IpU2qngM=
-                     16) 0105425035663320215BcZBp;enLsE<91EE10920QvzOfbcvLAvM7k9okFvDMEEaarXCfVuXD2UIeP1nWQ=
-                     17) 0105425035663320215HWa'Y-C<XBWJ91EE1092M+z12Fb7xTSkYWZTy5Lo8+4PILK9s5fb83AaN+j6PhE=
-                     18) 0105425035663320215kBY_QqcDLw3x91EE1092T/El+n0yUUd5TZ7Nr2JgA+GMoqE6ptbOTgTBJugqE98=
-[ page-8 ]:    0) 0105425035663320215RIRPqeoIoP7h91EE1092kt7Ynj1NAdOu1TWSxccduWhfFz9dJk35/dOnuyJ6jfg=
-                     1) 0105425035663320215?kaPxV=DlDI>91EE1092dS+FhOkmP033oqwVqhb4LZG2H8DAG9lpTfBhwPSNb3c=
-                     2) 0105425035663320215PPmHZayyx=_491EE1092zJTnwNZVQ6AhnwDEQrxiJHnNWQKbdfZM9EmhiVos6wk=
-                     3) 0105425035663320215sH&LmJFYLN"p91EE10925iyl+wxyfXhSwIqScaCsKu+4iIEGM18F9MXJbWz70Xk=
-                     4) 0105425035663320215I*eAGZZzTIn,91EE1092MEIQdes9vk1AOAxdx93XrCwuNtG+zLq8mJDwXH3dIkc=
-                     5) 0105425035663320215KPQFV<DGokhE91EE1092aDYAESUlEUj+wKUu+/fQD803KguJ0APlnXnCqOStCK8=
-                     6) 0105425035663320215TBrRXPFQwB&q91EE1092S9M4pRRN7V8cn9JzZeCkA89gESXvayyLUBZV3fzG7Cs=
-                     7) 0105425035663320215W&ZnGUaLZ=2U91EE1092jVSxUdnlp+8rMM+QsyCmFUwmXjtGLpH2B/XQ4awlnnw=
-                     8) 0105425035663320215A/<ASn<EXj=R91EE1092TGZtiueq4xR+l5Za2oRyLDjREikthvXlufiigrNW2Hc=
-                     9) 0105425035663320215M1KVRGEJOYUm91EE1092nau7I88xHXnLszcpNEpa269VhRSFanb6kLCxedpf+q8=
-                     10) 0105425035663320215nMTX7XMWnZut91EE10922E5xRy3b16jPO/ZPHAP/LaFJufcDYf7n8s15eEwrTeM=
-                     11) 0105425035663320215WIDIrgGBXlOI91EE10927UGvivQ/ouPX8hZWhPTvW5QpRiNvPRurnGv+GXy0+QM=
-                     12) 0105425035663320215OVfe2%PM""Ga91EE1092m/q/nd8mUfBZ+/oIHN/KSycz2V6sa4rThbwASHO/C0I=
-                     13) 0105425035663320215DkpV)NULHMcY91EE1092r1/ljPoSdtV6a/jZGiFYTLN+BkHy98vozS2pxBXSLVg=
-                     14) 0105425035663320215(&?MRkbD2rQ591EE1092jbjyPtAD59WqOtOOA5ZWsSMSYD/AViNBdQebVn1nsCI=
-                     15) 0105425035663320215!+l">qs7pp0A91EE1092R6i2wVdwoy2W7bkpkFfXWk6mr9Ew7LFJ+TpYyrx8/iY=
-                     16) 0105425035663320215!+teJtis3Bb(91EE1092VKZYu6STEdSwJ4xTp07hsJmeP3IpjZJcLdlfz2s4NwU=
-                     17) 0105425035663320215MkltZFtWtoF591EE1092cf9J/N7PWxn5UAcAKK6NwaIGc/nU3D0/AArD/TCu/RQ=
-                     18) 0105425035663320215UknhhL4xI<2S91EE1092bNTg87Gwryf2FL0HGYf5SK0ARi465rBtAYuMW1kbj7U=
